@@ -1,0 +1,163 @@
+body{
+    font-family: 'Modern Antiqua', cursive;
+}
+.green{
+    color: red;
+}
+#yellow{
+    border-left: 2px solid darkgreen;
+    padding-left: 2%;
+    border-width:initial
+    
+}
+.blue{
+    display: flex;
+    width: 100%;
+    padding-left: 2%;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.blue img{
+    height: 70%;
+    width: 90%;
+    border-radius: 30%;
+    padding-top: 10%;
+}
+.marvel{
+    text-decoration: none;
+    background-image: linear-gradient(blue,red);
+    color: white;
+    padding: 10px 20px;
+    font-weight: 900%;
+    border-radius: 15%;
+    font-family:monospace;
+    font-size: large;
+}
+h2{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+}   
+.ola{ 
+    color: red;
+}
+.venom{
+    padding:4px 30px 4px 30px;
+    width: 30%;
+    background-color: salmon;
+    border-radius: 7%;
+    font-size: small;
+    box-sizing: border-box;
+}
+.venom-spider{
+    background-color: orange;
+    padding:4px 30px 4px 30px;
+    width: 30%;
+    border-radius: 7%;
+    font-size: small;
+    box-sizing: border-box;
+    margin-left: 10px;
+  
+}
+.spider{
+    display: flex;
+    padding-left: 7%;
+}
+.venom-spider-iron{
+    background-color:yellowgreen;
+    padding:4px 30px 4px 30px;
+    width: 30%;
+    border-radius: 7%;
+    font-size: small;
+    box-sizing: border-box;
+    margin-left: 10px;
+}
+.stan{
+    display: flex;
+    width: 100%; 
+    padding-right: 8%;
+    padding-top: 2%; 
+}
+.stan img{
+    width: 200px;
+    height: 300px;
+    padding-right: 20%;
+    padding-left: 20%;
+    padding-bottom: 40%; 
+    background-image: url(shapes/shape-1.png);
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#lee{
+    text-decoration: none;
+    background-image: linear-gradient(blue,red);
+    color: white;
+    padding: 10px 20px;
+    font-weight: 900%;
+    border-radius: 15%;
+    font-family:monospace;
+    font-size: large;
+}
+#shafin{
+    text-decoration: none;
+    background-image: linear-gradient(blue,red);
+    color: white;
+    padding: 10px 20px;
+    font-weight: 900%;
+    border-radius: 15%;
+    font-family:monospace;
+    font-size: large;
+}
+.covid{
+    display: flex;
+    width: 90%;
+    padding-right: 5%;
+    padding-bottom: 10%;
+
+}     
+.covid img{
+    width: 600px;
+    height: 300px;
+    padding-right: 10%;
+    padding-left: 2%;   
+}
+#corona{
+    text-decoration: none;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    color: green;
+}
+.foot{
+    background-color: black;
+    color: white;
+    padding-top: 1%;
+}
+footer p{
+    text-align: center;
+    color: white;
+    font-size: medium;
+    padding-bottom: 1%;
+}
+#mission{
+    color: gold;
+    padding-top: 2%;
+}
+#tanvir{
+    display: flex;
+    width: 90%; 
+    padding-right: 5%;
+    padding-top: 5%;
+}
+#tanvir img{
+    width: 200px;
+    height: 300px;
+    background-image: url(shapes/shape-1.png);
+    padding-right: 20% ;
+    padding-left: 15% ;
+    padding-bottom: 150% ;
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: right; 
+}
